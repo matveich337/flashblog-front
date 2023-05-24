@@ -1,0 +1,15 @@
+.login-main-form {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.login-main {
+  padding-top: 160px;
+  background-image: url("/public/images/main.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  min-height: calc(100vh - 111px);
+}

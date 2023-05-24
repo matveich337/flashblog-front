@@ -1,0 +1,42 @@
+.header {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  background-color: rgb(32, 32, 32);
+}
+
+.header > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: whitesmoke;
+  font-family: "Roboto";
+  font-size: 20px;
+}
+
+.header > div > img {
+  margin-right: 27px;
+}
+
+.header > p {
+  padding-left: 100px;
+}
+
+.header-register-button {
+  width: 143px;
+  height: 35px;
+}
+
+.header-login-button {
+  margin-right: 27px !important;
+  width: 143px;
+  height: 35px;
+}
+
+.header-log-oug-button{
+  width: 143px;
+  height: 35px;
+}
+

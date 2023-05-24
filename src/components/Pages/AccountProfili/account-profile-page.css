@@ -1,0 +1,19 @@
+.account-profile-page-main {
+  min-height: calc(100vh - 111px);
+  padding-top: 100px;
+  box-sizing: border-box;
+  background-image: url("/public/images/main.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.account-profile-page-main p {
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.account-profile-page-main img {
+  width: 300px;
+  margin-bottom: 40px;
+}

@@ -1,0 +1,14 @@
+.posts-page-main {
+  min-height: calc(100vh - 111px);
+  background-image: url("/public/images/main.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.post-card {
+  margin: 0 10px 25px;
+  width: 350px !important;
+  height: 200px !important;
+  border-radius: 10px !important;
+  box-shadow: 5px 5px 5px black;
+}

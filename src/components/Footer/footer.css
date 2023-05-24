@@ -1,0 +1,23 @@
+.footer {
+  padding: 0 40px;
+  height: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+}
+
+.footer > div {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  color:azure;
+}
+.footer > p{
+    font-size: 20px;
+    color:azure;
+}
+
+.footer > div > p:first-of-type {
+  margin-right: 21px;
+}
